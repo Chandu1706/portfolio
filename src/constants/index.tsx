@@ -57,7 +57,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "1682 Ash Ct, Kent, Ohio, USA, 44240",
+  address: "5801 preston Oaks Rd,Dallas, TX 75252",
   phoneNo: "+1 (234) 296-2539",
   email: "korubillichandu123@gmail.com",
 };
