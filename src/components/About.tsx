@@ -1,4 +1,4 @@
-import aboutImg from "../assets/prof.jpeg"
+import aboutImg from "../assets/image1.jpeg"
 import { ABOUT_TEXT } from "../constants"
 import {motion} from "framer-motion";
 const About = () => {
